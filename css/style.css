@@ -134,6 +134,12 @@ iframe {
   height: 415px;
 }
 
+.columns {
+  column-count: 3;
+}
+
+
+
 /********** Header **********/
 
 /********** Nav Bar **********/
